@@ -54,7 +54,7 @@ function App() {
             />
           </GridItem>
         </Show>
-        <GridItem pl="2" bg="green.300" area="main">
+        <GridItem pl="2" bg="grey.300" area="main">
           <Box paddingLeft={2}>
             <GameHeading gameQuery={gameQuery} />
             <Flex marginBottom={5}>
