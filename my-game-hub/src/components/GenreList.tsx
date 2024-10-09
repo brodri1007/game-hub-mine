@@ -1,6 +1,5 @@
 import {
   HStack,
-  Text,
   List,
   ListItem,
   Image,
